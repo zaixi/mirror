@@ -7,8 +7,17 @@
            remote="github"
            sync-j="8" />
 
-  <project name="zaixi/mirror" />
-  <project name="zaixi/GouYong" />
-  <project name="zaixi/liyj-vim" />
+  <project path="mirror"         name="zaixi/mirror" />
+  <project path="GoYong"         name="zaixi/GouYong" />
+  <project path="liyj-vim"       name="zaixi/liyj-vim" />
+  <project path="vim-init"       name="zaixi/vim-init" />
+  <project path="pure"           name="zaixi/pure" />
+  <project path="ansible-ubuntu" name="zaixi/ansible-ubuntu" />
+
+  <project path="linux"          name="torvalds/linux" />
+
+  <project path="uboot"          name="u-boot/u-boot" />
+
+  <project path="aptik"          name="teejee2008/aptik" />
 
 </manifest>
